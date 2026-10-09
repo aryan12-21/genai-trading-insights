@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+pandas==2.2.2
+matplotlib==3.9.2
+langchain==0.3.4
+langchain-groq==0.2.1
+langchain-huggingface==0.1.2
+sentence-transformers==3.2.1
+streamlit==1.38.0
+python-dotenv==1.0.1
